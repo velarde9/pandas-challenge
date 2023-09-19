@@ -14,7 +14,6 @@ Of the 15 schools, 85.805463% of total students are passing  with a reading scor
 
 The overall percentage of students that are passing is 65.172326%.
 
-
 # School Summary
 The School Summary table revealed that of the two school types, Charter schools had higher overall average math and reading scores,	higher percentages for students passing math and reading, and a higher passing percentage in comparison to district schools.
 
